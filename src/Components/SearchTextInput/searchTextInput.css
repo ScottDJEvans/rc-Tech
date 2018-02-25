@@ -1,0 +1,16 @@
+.searchTextInput__container {
+    padding: 20px;
+    margin: 0 20px;
+}
+
+.searchTextInput__label {
+    font-size: 14px;
+    font-weight: 200;
+    text-align: left;
+    color: #444444;
+    margin-bottom: 5px;
+}
+
+.searchTextInput__searchbox {
+
+}

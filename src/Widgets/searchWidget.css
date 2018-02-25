@@ -1,0 +1,26 @@
+.searchWidget__container {
+    display: block;
+    height: 200px;
+    width: 600px;
+    background-color: #F3CE56;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.searchWidget__title {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: left;
+    margin: 0 40px;
+    padding-top: 20px;
+}
+
+.searchWidget__searchBox {
+
+}
+
+@media screen and (max-width: 500px) {
+    .searchWidget__container {
+
+    }
+    /*affect width and height etc*/
+}

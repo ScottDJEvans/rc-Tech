@@ -1,0 +1,14 @@
+.textInput__input {
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+}
+
+/*would inherit with SASS*/
+.textInput__input--focused {
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+
+    border: #75B9E8 solid 2px;
+}
